@@ -3,7 +3,7 @@ author: Alexander Möllers
 email: Alexander.j.moellers@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Projects that have to do with AI or Computational Neuroscience. If you are interested to do something cool, reach out. 
-theme: minima
+theme: jekyll-theme-cayman
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
